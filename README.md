@@ -1,3 +1,6 @@
+![Screenshot 2025-06-29 144756](https://github.com/user-attachments/assets/ba73e285-ecb4-4bea-8796-758710da3665)
+
+
 1. How do I approach designing software?
 
    I apporach designing software by first breaking down the project or software into smaller more manageable sections. Through this class I broke the project into different parts including, the creation of the the Lighting, Controls, and Objects.
